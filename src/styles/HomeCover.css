@@ -1,0 +1,8 @@
+.homeCover {
+    background-image: url('../assets/heroImg.jpg');
+    height: 70vh;
+}
+
+.hero {
+    background-color: rgba(0, 0, 0, 0.85);
+}
